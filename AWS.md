@@ -845,7 +845,3 @@ Before moving to the mock interview, revise these questions. These are the quest
 | 15  | How do you secure AWS credentials?                                          |
 
 
-
-Submit My Answer
-
-**One important suggestion:** Don't try to complete all 15 questions by memorizing their answers. Understand the concepts and practice explaining them in your own words. That is what will help you handle follow-up questions confidently.
